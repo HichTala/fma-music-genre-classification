@@ -4,6 +4,4 @@ Michaël Defferrard, Kirell Benzi, Pierre Vandergheynst, Xavier Bresson, EPFL LT
 
 original code at <https://github.com/mdeff/fma>.
 
-
-
-[paper]: https://arxiv.org/abs/1612.01840
+paper: https://arxiv.org/abs/1612.01840
