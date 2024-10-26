@@ -21,12 +21,12 @@ pip install numpy pandas matplotlib sklearn librosa torch torchvision torchaudio
 ```
 
 ## 📚 Libraries Used
--**pandas 🐼**: For data handling and analysis.
--**librosa 🎶**: For audio feature extraction and visualization.
--**scikit-learn 🤖**: Implements machine learning algorithms.
--**PyTorch 🔥**: For building and training neural networks.
--**torchaudio 🎧**: To handle audio processing in deep learning models.
--**matplotlib 📊**: For visualizing audio signals and results.
+- **pandas 🐼**: For data handling and analysis.
+- **librosa 🎶**: For audio feature extraction and visualization.
+- **scikit-learn 🤖**: Implements machine learning algorithms.
+- **PyTorch 🔥**: For building and training neural networks.
+- **torchaudio 🎧**: To handle audio processing in deep learning models.
+- **matplotlib 📊**: For visualizing audio signals and results.
 
 
 ## 🤝 Acknowledgements
